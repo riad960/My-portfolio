@@ -1,2 +1,1 @@
-const x = document.anchors;
-console.dir(x);
+console.log(Object.json());
